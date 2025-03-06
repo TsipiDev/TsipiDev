@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🖥️ Hey there! 👋  
+I'm a **Computer Science undergraduate** at **Democritus University of Thrace (DUTH)** 🎓. Passionate about **software development**, **embedded systems**, and **Edge AI** 🤖✨.  
 
-<!--
-**TsipiDev/TsipiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 What I'm Into  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💾 **Software Development** – Writing fast & reliable code mostly for embedded and ML applications! 🛠️  
+⚙️ **Embedded Systems** – Bringing compact hardware to life with low-level programming! 🚀  
+🧠 **Edge AI** – Optimizing AI to run on tiny devices! 🤖  
+🐧 **Linux Enthusiast** - 🗿
+
+---
+
+## 💡 Tech Stack  
+🖥️ **Languages:** C 🏎️ | Python 🐍  
+🔧 **Tools & Frameworks:** Embedded C, MicroPython, TensorFlow Lite, Arduino IDE ✨  
+🛠️ **Platforms:** Arduino 🤖 | ESP32 ⚡ | Raspberry Pi 🍓 | Linux 🐧  
+
+---
+
+## 📫 Let's Connect!  
+Feel free to **reach out**! 🚀  
+💌 [Email Me](mailto:dimitrisvatoussis@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/dimitris-vatousis/)  
+
