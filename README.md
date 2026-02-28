@@ -6,8 +6,11 @@ I'm a **Computer Science undergraduate** at **Democritus University of Thrace (D
 ##  What I'm Into  
 
  **Software Development**
+ 
  **Embedded Systems**
+ 
  **Edge AI** 
+ 
  **Linux Enthusiast**
 
 ---
