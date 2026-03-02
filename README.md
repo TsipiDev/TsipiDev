@@ -24,6 +24,6 @@ I'm a **Computer Science undergraduate** at **Democritus University of Thrace (D
 
 ##  Let's Connect!  
 Feel free to **reach out**! 
-💌 [Email Me](mailto:dimitrisvatoussis@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/dimitris-vatousis/)  
+[Email Me](mailto:dimitrisvatoussis@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/dimitris-vatousis/)  
 
